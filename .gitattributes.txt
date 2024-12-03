@@ -1,0 +1,15 @@
+# Configuración general para manejar finales de línea
+* text=auto  # Detecta automáticamente si un archivo es binario o texto y ajusta eol
+
+# Forzar LF (Unix) para archivos de texto
+*.py text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+
+# Forzar CRLF (Windows) para archivos CSV
+*.csv text eol=crlf
+
+# Evitar cambios en archivos binarios
+*.ipynb binary
+*.png binary
+*.jpg binary
