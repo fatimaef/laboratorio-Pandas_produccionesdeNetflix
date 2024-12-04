@@ -1,17 +1,20 @@
-<em> # Análisis y Enriquecimiento del Catálogo de Netflix </em>
-![logo de Netflix](r'"C:\Users\fatim\Hackio\Laboratorios\Pandaslab\laboratorio-Pandas-produccionesdeNetflix\laboratorio-Pandas_produccionesdeNetflix\Netflix_2015_logo.svg.png")
+# Análisis y Enriquecimiento del Catálogo de Netflix 
 
 ![Badge finalizado](https://img.shields.io/badge/STATUS-FINALIZADO%20EN%20DICIEMBRE'24-pink)
 
-# 📄 Descripción del laboratorio
+## 📄 Descripción del laboratorio
 
 El documento que alberga el repositorio, elaborado en el marco del bootcamp de Hack(io), analiza dos conjuntos de datos relativos a las producciones desarrolladas y/o comercializadas por Netflix. 
 
 En concreto, se pedía un análisis exploratorio de ambos archivos CSV. En virtud de ello, se desgranaron las informaciones que ofrecían cada una de las columnas y filas para, a posteriori, unir los conjuntos a través de la función 'merge' en aras de concretar coincidencias y afinar las conclusiones ofrecidas por la data. 
 
-# 📓 Organización del repositorio
+## 📓 Organización del repositorio
+El repositorio está formado por los siguientes archivos:
+1. Tres archivos CSV con los datos a analizar 
+2. Archivo README
 
-# 🔲 🔳 Principales conclusiones del análisis de las producciones originales y gestionadas por la plataforma Netflix
+## 🔲 🔳 Principales conclusiones del análisis de las producciones originales y gestionadas por la plataforma Netflix
+
 En líneas generales, se destacan las siguientes cifras:
 **513 registros** formados por: **106 géneros traducidos** a **37 idiomas**. **Predominio** de los **documentales** (132 producciones) y las **versiones en inglés** (>350 producciones).
 Calificación promedio en IMDb: 6.21, con puntuaciones entre 2.5 y 9.0.
